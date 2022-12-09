@@ -9,7 +9,7 @@ ipeline {
         }
         stage('Build') {
             steps {
-                echo 'Building'
+                echo 'Buildin build g'
             }
         }
         stage('Deploy') {
